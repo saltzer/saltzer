@@ -1,4 +1,5 @@
-### Hi there 👋
+| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=saltzer&show_icons=true&hide=contribs,prs&theme=react) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saltzer&layout=compact&theme=react)](https://github.com/saltzer/github-readme-stats) |
+| ------ | ------ |
 
 <!--
 **saltzer/saltzer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
