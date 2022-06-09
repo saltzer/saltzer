@@ -1,4 +1,4 @@
-| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=saltzer&show_icons=true&hide=contribs,prs&theme=react) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saltzer&layout=compact&&langs_count=8&theme=react)](https://github.com/saltzer/github-readme-stats) |
+| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=saltzer&show_icons=true&hide=contribs,prs&theme=react) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saltzer&layout=compact&&langs_count=6&theme=react)](https://github.com/saltzer/github-readme-stats) |
 | ------ | ------ |
 
 <!--
